@@ -16,3 +16,4 @@ D:\TextToSpeechApp\bin\Debug\net8.0-windows\System.Speech.dll
 D:\TextToSpeechApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
 D:\TextToSpeechApp\obj\Debug\net8.0-windows\TextToSpeechApp.csproj.AssemblyReference.cache
 D:\TextToSpeechApp\obj\Debug\net8.0-windows\TextToSp.11BDDB3E.Up2Date
+D:\TextToSpeechApp\obj\Debug\net8.0-windows\TextToSpeechApp.sourcelink.json

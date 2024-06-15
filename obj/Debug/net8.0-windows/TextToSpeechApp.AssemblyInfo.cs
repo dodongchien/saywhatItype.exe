@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextToSpeechApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14e68210f724264941382cb7fe0226b778ce5c8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextToSpeechApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextToSpeechApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
